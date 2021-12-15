@@ -1,3 +1,4 @@
-Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot.
+Projeto da DIO referente a entrega de um sistema de gerenciamento de pessoas API Rest + Springboot.
+
 
 
