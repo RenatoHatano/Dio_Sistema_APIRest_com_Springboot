@@ -1,2 +1,3 @@
-# Dio_Sistema_APIRest_com_Springboot
-Sistema de gerenciamento de pessoas utilizando API Rest com SpringBoot.
+Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot.
+
+
